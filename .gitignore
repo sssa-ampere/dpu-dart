@@ -1,7 +1,8 @@
 # Vivado
 *.log
 *.jou
-vivado/**
+dart_dpu_static/**
+hw/ips/**
 
 #Visual Code studio
 .vscode/**
